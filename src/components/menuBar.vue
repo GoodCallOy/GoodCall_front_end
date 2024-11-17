@@ -20,9 +20,9 @@ export default {
   },
   data() {
     return {
-      activeItem: 'Home',
+      activeItem: 'DashBoard',
       menuItems: [
-        { label: 'Home' },
+        { label: 'DashBoard' },
         { label: 'Cases' },
         { label: 'Agents' },
         { label: 'About' },

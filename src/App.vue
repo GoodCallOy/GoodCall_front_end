@@ -10,7 +10,7 @@ import { ref } from 'vue';
 
 // Register your components
 const componentsMap = {
-  Home: DashBoard,
+  DashBoard: DashBoard,
   Cases: CasesPage,
   Agents: AgentPage,
   About: AboutPage,
